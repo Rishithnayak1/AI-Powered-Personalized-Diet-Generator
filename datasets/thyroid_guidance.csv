@@ -1,0 +1,11 @@
+rule_id,condition,food_or_pattern,match_tag,action,reason,source_url
+THYROID_001,thyroid,Soy foods around levothyroxine,soy,MEDICATION_TIMING_REVIEW,Soy can affect medicine absorption timing,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_002,thyroid,Calcium supplements around levothyroxine,calcium_supplement,MEDICATION_TIMING_REVIEW,Calcium can interfere with medicine absorption,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_003,thyroid,Iron supplements around levothyroxine,iron_supplement,MEDICATION_TIMING_REVIEW,Iron can interfere with medicine absorption,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_004,thyroid,Food with thyroid medicine,meal_timing,MEDICATION_TIMING_REVIEW,Food can change levothyroxine absorption,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_005,thyroid,Curd or dairy near levothyroxine,dairy,MEDICATION_TIMING_REVIEW,Calcium-rich foods may matter near medicine dosing,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_006,thyroid,Cabbage and cooked cruciferous vegetables,cruciferous_vegetable,NO_AUTO_EXCLUSION,No general basis for universal exclusion,https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
+THYROID_007,thyroid,Ragi and other millets,millet,NO_AUTO_EXCLUSION,A thyroid label alone is insufficient,https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
+THYROID_008,thyroid,Ordinary dal and legumes,whole_pulses,ALLOW,General balanced-diet foods,https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
+THYROID_009,thyroid,Iodine supplements seaweed or kelp,iodine_supplement,CLINICIAN_REVIEW,Iodine needs depend on diagnosis,https://www.thyroid.org/thyroid-hormone-treatment/
+THYROID_010,thyroid,Special low-iodine therapeutic diet,low_iodine_diet,CLINICIAN_REVIEW,Special diets require individualized protocols,https://www.thyroid.org/thyroid-hormone-treatment/

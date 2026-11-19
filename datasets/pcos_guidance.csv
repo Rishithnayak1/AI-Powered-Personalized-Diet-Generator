@@ -1,0 +1,11 @@
+rule_id,condition,food_or_pattern,match_tag,action,reason,source_url
+PCOS_001,pcos,Sugar-sweetened beverages,added_sugar,EXCLUDE_DEFAULT,Prefer nutrient-dense choices and lower added sugar,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_002,pcos,Sweet pongal and desserts,added_sugar,LIMIT,Sustainable balanced energy intake,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_003,pcos,Pesarattu and pulse-rich dishes,whole_pulses,ALLOW,General healthy eating pattern,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_004,pcos,Whole grains and millets,millet,ALLOW,Diet variety and fibre,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_005,pcos,Vegetable-rich sambar or curry,vegetable,ALLOW,Varied balanced dietary intake,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_006,pcos,Deep-fried packaged snacks,deep_fried,LIMIT,General diet quality and sustainability,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_007,pcos,Plain rice and refined grains,white_rice,PORTION_REVIEW,No universal rice restriction for PCOS,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_008,pcos,Milk curd and yogurt,dairy,NO_AUTO_EXCLUSION,No universal dairy exclusion under PCOS guideline,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_009,pcos,Gluten-containing grains,gluten,NO_AUTO_EXCLUSION,No standard gluten exclusion for PCOS,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+PCOS_010,pcos,Very restrictive fad diet,extreme_restriction,CLINICIAN_REVIEW,Guideline discourages unduly restrictive unbalanced diets,https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/

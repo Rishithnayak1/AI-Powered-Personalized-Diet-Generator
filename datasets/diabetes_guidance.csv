@@ -1,0 +1,11 @@
+rule_id,condition,food_or_pattern,match_tag,action,reason,source_url
+DIABETES_001,diabetes,Sugar-sweetened tea coffee or packaged beverages,added_sugar,EXCLUDE_DEFAULT,Routine sugar-sweetened drinks are discouraged,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_002,diabetes,Sweet pongal and sugar-rich sweets,added_sugar,LIMIT,Added sugar contributes to carbohydrate load,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_003,diabetes,Large servings of white rice,white_rice,PORTION_REVIEW,Total carbohydrate quantity and accompanying foods matter,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_004,diabetes,Idli without protein or vegetables,rice,PAIR_WITH_PROTEIN_FIBRE,Balanced meal composition,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_005,diabetes,Large puttu serving without kadala,rice,PAIR_WITH_PROTEIN_FIBRE,Carbohydrate distribution across the day,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_006,diabetes,Deep-fried packaged snacks,deep_fried,LIMIT,Prefer nutrient-dense choices,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_007,diabetes,Pulses and whole legumes,whole_pulses,ALLOW,Protein and fibre contribution,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_008,diabetes,Whole fruit,whole_fruit,ALLOW,Fibre-rich foods are supported,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_009,diabetes,Egg fish and lean poultry,animal_protein,ALLOW,Nutrient-dense protein sources,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932
+DIABETES_010,diabetes,Insulin or sulfonylurea related meal timing,meal_timing,CLINICIAN_REVIEW,Meal timing needs medicine-specific assessment,https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932

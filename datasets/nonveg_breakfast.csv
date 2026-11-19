@@ -1,0 +1,15 @@
+food_id,food_item,food_category,calories_per_100g,protein_per_100g,carbs_per_100g,fats_per_100g,fibre_per_100g,ingredients,preparation_method
+NONVEG_BREAKFAST_001,Egg pesarattu,breakfast,146.1,9.2,17.0,4.8,4.3,whole egg: 55 g; whole green gram (dry): 57 g; onion: 25 g; vegetable oil: 5 g,lightly pan-cooked
+NONVEG_BREAKFAST_002,Egg podimas with ragi dosa,breakfast,141.4,6.3,17.8,5.0,3.4,whole egg: 75 g; ragi flour (dry): 48 g; urad dal (dry): 10 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,lightly pan-cooked
+NONVEG_BREAKFAST_003,Boiled eggs with idli and sambar,breakfast,127.8,6.1,18.8,3.3,2.4,boiled egg: 55 g; rice (dry): 38 g; urad dal (dry): 12 g; toor dal (dry): 20 g; mixed vegetables: 60 g; vegetable oil: 3 g,steamed / simmered
+NONVEG_BREAKFAST_004,Kerala egg roast with appam,breakfast,137.0,5.5,17.4,5.0,0.6,whole egg: 75 g; rice (dry): 48 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,lightly roasted / pan-cooked
+NONVEG_BREAKFAST_005,Egg curry with idiyappam,breakfast,156.1,5.9,19.6,5.7,1.2,whole egg: 75 g; rice flour (dry): 48 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,steamed / simmered
+NONVEG_BREAKFAST_006,Egg uthappam with tomato chutney,breakfast,121.1,5.2,16.2,4.0,1.3,whole egg: 75 g; rice (dry): 48 g; urad dal (dry): 10 g; mixed vegetables: 38 g; onion: 28 g; vegetable oil: 5 g; tomato: 40 g,lightly pan-cooked
+NONVEG_BREAKFAST_007,Egg bhurji with jowar rotti,breakfast,136.9,6.7,14.2,5.9,2.2,whole egg: 75 g; small millet (dry): 48 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,lightly pan-cooked
+NONVEG_BREAKFAST_008,Andhra egg pulusu with idli,breakfast,137.0,5.5,17.4,5.0,0.6,whole egg: 75 g; rice (dry): 48 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,steamed / simmered
+NONVEG_BREAKFAST_009,Egg masala with ragi rotti,breakfast,141.9,5.9,17.2,5.5,3.0,whole egg: 75 g; ragi flour (dry): 48 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,lightly pan-cooked
+NONVEG_BREAKFAST_010,Egg and vegetable dosa,breakfast,136.9,5.9,18.0,4.6,1.2,whole egg: 75 g; rice (dry): 48 g; urad dal (dry): 10 g; mixed vegetables: 38 g; onion: 18 g; vegetable oil: 5 g,lightly pan-cooked
+NONVEG_BREAKFAST_011,Chicken stew with appam,breakfast,140.9,10.6,16.7,3.4,0.7,skinless chicken (raw): 95 g; rice (dry): 45 g; onion: 22 g; tomato: 25 g; vegetable oil: 5 g; spices: 4 g,simmered / lightly tempered
+NONVEG_BREAKFAST_012,Fish puttu with idiyappam,breakfast,131.9,8.7,16.6,3.4,0.7,fish (raw): 95 g; rice (dry): 45 g; onion: 22 g; tomato: 25 g; vegetable oil: 5 g; spices: 4 g,steamed / simmered
+NONVEG_BREAKFAST_013,Egg Dosa with Peanut Chutney,breakfast,193.1,8.0,22.1,8.5,2.2,egg (raw): 65 g; rice (dry): 55 g; urad: 16 g; peanuts: 20 g; onion: 18 g; vegetable oil: 6 g; spices: 4 g,pan-cooked; ground chutney
+NONVEG_BREAKFAST_014,Chicken Keema Dosa,breakfast,146.7,10.0,19.5,3.2,1.7,chicken (raw): 95 g; rice (dry): 55 g; urad: 16 g; onion: 30 g; tomato: 25 g; vegetable oil: 6 g; spices: 5 g,pan-cooked
