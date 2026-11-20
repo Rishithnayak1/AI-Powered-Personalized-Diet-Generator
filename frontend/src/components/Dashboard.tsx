@@ -243,7 +243,7 @@ export default function Dashboard({
         <div className="flex items-center gap-2">
           <Leaf size={27} className="text-green-700" />
           <h1 className="text-2xl font-bold">
-            NutriAI
+            Poshika
           </h1>
         </div>
 
@@ -816,7 +816,7 @@ export default function Dashboard({
             )}
 
           <p className="text-xs leading-6 text-gray-500">
-            NutriAI uses preliminary nutritional estimates.
+            Poshika uses preliminary nutritional estimates.
             This application is not a substitute for medical
             advice. Users under 18 require age-specific
             assessment, and health conditions may require

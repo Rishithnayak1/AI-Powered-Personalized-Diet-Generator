@@ -190,7 +190,7 @@ export default function Onboarding({
         </h1>
 
         <p className="mt-2 text-sm text-gray-500">
-          Help NutriAI understand your nutritional preferences.
+          Help Poshika understand your nutritional preferences.
         </p>
 
         <div className="mt-8 space-y-5">

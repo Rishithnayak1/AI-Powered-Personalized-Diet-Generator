@@ -41,7 +41,7 @@ export default function App() {
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
 
   function completeOnboarding(profile: UserProfile): void {
-    console.log("NutriAI profile completed:", profile);
+    console.log("Poshika profile completed:", profile);
     setUserProfile(profile);
     setShowOnboarding(false);
   }
@@ -80,7 +80,7 @@ export default function App() {
             <Leaf size={25} className="text-[#286B47]" />
           </div>
           <span className="text-2xl font-bold tracking-tight">
-            NutriAI
+            Poshika
           </span>
         </a>
 
@@ -216,7 +216,7 @@ export default function App() {
             </h2>
 
             <p className="mt-6 leading-8 text-gray-600">
-              NutriAI combines nutritional calculations,
+              Poshika combines nutritional calculations,
               curated South Indian food data and
               constraint-based meal planning to help
               users make informed dietary choices.
@@ -229,7 +229,7 @@ export default function App() {
           className="mx-auto max-w-5xl px-6 py-20 text-center"
         >
           <h2 className="text-3xl font-bold">
-            How NutriAI Works
+            How Poshika Works
           </h2>
 
           <div className="mt-12 grid gap-6 md:grid-cols-3">
@@ -272,7 +272,7 @@ export default function App() {
       </main>
 
       <footer className="border-t border-green-100 px-6 py-8 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} NutriAI. Personalized Nutrition Companion.
+        © {new Date().getFullYear()} Poshika. Personalized Nutrition Companion.
       </footer>
     </div>
   );
